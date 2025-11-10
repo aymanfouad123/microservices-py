@@ -1,0 +1,12 @@
+# API framework
+Flask==3.0.3
+
+# MySQL integration for Flask
+Flask-MySQLdb==2.0.0
+mysqlclient==2.2.4
+
+# JWT handling
+PyJWT==2.10.1
+
+# Environment variable loading 
+python-dotenv==1.0.1
